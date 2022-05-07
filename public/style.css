@@ -1,0 +1,7 @@
+body {
+  background: pink;
+}
+/* 宽高不要写死！不要写死！不要写死！ */
+img {
+  max-width: 300px;
+}
